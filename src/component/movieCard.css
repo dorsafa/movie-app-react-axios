@@ -1,0 +1,24 @@
+.movieCard{
+    border: 1px solid red;
+    margin: 50px;
+    border-radius: 6px;
+}
+.movieCard :hover{
+    box-shadow: 0 20px 50px 0 rgba(0,0,0,.50);
+}
+.buttonDescription{
+    margin: 20px;
+    border-radius: 6px;
+    background-color: white;
+}
+.buttonDeleteEdit{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    
+}
+
+.buttonDeleteEdit button{
+    background-color: hsl(0, 0%, 93%);
+
+}

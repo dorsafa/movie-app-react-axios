@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+.App {
+  text-align: center;
+  background-color: hsl(0, 0%, 93%);
+}
+h1{
+  color: rgb(19, 132, 150) !important;
+  font-weight: 800;
+  
+  padding: 50px;
+}
+
+.description{
+  border: 1px solid rgb(19, 132, 150) ;
+  border-radius: 6px;
+  width: 500px;
+  padding: 20px;
+  
+}

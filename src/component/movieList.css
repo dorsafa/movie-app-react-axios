@@ -1,0 +1,14 @@
+.movieList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.search{
+    align-self: center;
+    display: flex;
+    justify-content: center;
+}
+.raterSearch{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
